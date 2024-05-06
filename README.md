@@ -8,7 +8,7 @@
 </p>
 
 
-<h3 align="center"> 🔭Presently contributing as a QA Intern at Mayhem Studios in Bengaluru, my role revolves around meticulous testing of web applications, mobile applications, and games. Proficient in both manual testing and automation frameworks, I am driven by a fervent passion for ensuring software quality.</h3>
+<h3 align="center">🔭Presently contributing as a QA Intern at Mayhem Studios in Bengaluru, my role revolves around meticulous testing of web applications, mobile applications, and games. Proficient in both manual testing and automation frameworks, I am driven by a fervent passion for ensuring software quality.</h3>
 
 
 
@@ -28,3 +28,4 @@
 	<a href="mailto:nikshithpoojary143@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
 
+<p align= "center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYr_fu2sprFIChuYw6WIAvkPMqdiEaW5oytA&s" style="max-width: 100%; height: auto;"></p>
