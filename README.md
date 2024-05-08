@@ -58,9 +58,6 @@
 
    <p align = "center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nikshithpoojary" alt="nikshithpoojary" /></p>
 
-   ## Resume
-
-   <a href ="https://drive.google.com/file/d/1QrTYCX6l2X37ZnxB3y_hl807OUVvAR3z/view?usp=sharing" />
 	
    ## 🙋‍♂ Let's Connect
 
