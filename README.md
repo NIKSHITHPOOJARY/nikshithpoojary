@@ -10,7 +10,7 @@
 </p>
 
 
-<h3 align="center">🔭Presently contributing as a QA Intern at Mayhem Studios in Bengaluru, my role revolves around meticulous testing of web applications, mobile applications, and games. Proficient in both manual testing and automation frameworks, I am driven by a fervent passion for ensuring software quality.</h3>
+<h3 align="center">🔭Presently contributing as a Games QA at Mayhem Studios in Bengaluru, my role revolves around meticulous testing of web applications, mobile applications, and games. Proficient in both manual testing and automation frameworks, I am driven by a fervent passion for ensuring software quality.</h3>
 
 <br />
 
